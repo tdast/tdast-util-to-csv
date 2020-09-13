@@ -1,6 +1,6 @@
 {
   "name": "tdast-util-to-csv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "tdast utility to serialize tdast into CSV (RFC-4810 compliant)",
   "license": "MIT",
   "homepage": "https://github.com/tdast/tdast-util-to-csv",
